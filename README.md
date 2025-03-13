@@ -12,7 +12,7 @@ Before beginning the MAE 156 project, researchers using the ENTS generally used 
    
 The goal of the enclosure for the ENTS node is to improve the node's performance for researchers during deployments. Having an enclosure made specifically for their purposes would mean that they would not have to spend resources on tailoring it to their preferences and environments. Having a secure enclosure also prevents leakage, ensuring that the node does not get damaged during deployment. To address these requirements, this project developed two designs: a 3D-printed enclosure using PLA material with a watertight sealant coating, and a PVC enclosure using off-the-shelf components. Both design solutions meet all functional requirements and have their own unique pros and cons. Researchers creating these enclosures pick which design to use based on their specific deployment needs and the tools available to their disposal. 
 
-Here are our two unique enclosure designs: 
+Here are our two unique enclosure designs (CAD Files are provided as STL & Fusion Files in the repository): 
 
 
 ![image](https://github.com/jlab-sensing/ENTS-enclosure/blob/main/3dprintexploded.png)

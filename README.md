@@ -27,7 +27,6 @@ After testing in the Kendall Frost Marsh Reserve, both enclosures demonstrated e
  - [Website]()
  - [Poster]()
  - [Instruction Manual]()
- - 
 
 
 

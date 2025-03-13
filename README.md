@@ -31,8 +31,8 @@ After testing in the Kendall Frost Marsh Reserve, both enclosures demonstrated e
  - [Instruction Manual]()
  - [Final Report]()
  - [3D Printed Enclosure - Editable Fusion 360 File](https://a360.co/43Cl2w4)
- - [Twist Lock Insert (PVC)](https://a360.co/41X5OjU)
- - [Twist Lock Insert (3D)](https://a360.co/4iIh4pX)
+ - [Twist Lock Insert (PVC) - Editable Fusion File](https://a360.co/41X5OjU)
+ - [Twist Lock Insert (3D) - Editable Fusion File](https://a360.co/4iIh4pX)
 
 
 

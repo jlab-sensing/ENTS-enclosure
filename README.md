@@ -30,6 +30,7 @@ After testing in the Kendall Frost Marsh Reserve, both enclosures demonstrated e
  - [Poster]()
  - [Instruction Manual]()
  - [Final Report]()
+ - [3D Printed Enclosure - Editable Fusion 360 File](https://a360.co/43Cl2w4)
 
 
 

@@ -17,9 +17,9 @@ The goal of the enclosure for the ENTS node is to improve the node's performance
 Here are our two unique enclosure designs (CAD Files are provided as STL & Fusion Files in the repository): 
 
 
-![image](https://github.com/jlab-sensing/ENTS-enclosure/blob/main/3dprintexploded.png)
+![image](https://github.com/jlab-sensing/ENTS-enclosure/blob/main/images/3dprintexploded.png)
 
-![image](https://github.com/jlab-sensing/ENTS-enclosure/blob/main/pvcexploded.png)
+![image](https://github.com/jlab-sensing/ENTS-enclosure/blob/main/images/pvcexploded.png)
 
 After testing in the Kendall Frost Marsh Reserve, both enclosures demonstrated excellent waterproofing capabilities, lasting a week submerged without water ingress or significant humidity increase. See "Project Links" section below for a detailed enclosure instruction manual, project report and website.  
 

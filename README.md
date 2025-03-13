@@ -1,5 +1,7 @@
 # ENTS Node Enclosure
 
+If you are looking to get started right away here is the instruction manual! [Instruction Manual] ()
+
 ### Project Summary
 
 Before beginning the MAE 156 project, researchers using the ENTS generally used an IP68 rated Polycase enclosure to house the node during outdoor deployments. This was an undesirable solution because it was not cost effective at about $49 USD to house a single node and because it required researchers to modify the enclosure to suit their needs regarding cable connections. This was what led the project’s sponsor, Steve Taylor, to form the ENTS team in order to produce a new enclosure with the goal of it also being open-source. There is a need for an enclosure for the ENTS node that follows the following functional requirements: 

@@ -36,4 +36,4 @@ After testing in the Kendall Frost Marsh Reserve, both enclosures demonstrated e
 
 
 
-We would like to thank our Steve Taylor as well as Nathan Delson and Jerry Tustaniwskyj from the UCSD MAE department for guiding us through the project.  
+We would like to thank our Steve Taylor as well as Nathan Delson and Jerry Tustaniwskyj from the UCSD MAE department for guiding us throughout the project.  

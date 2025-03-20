@@ -1,6 +1,6 @@
 # ENTS Node Enclosure
 
-If you are looking to get started right away here is the instruction manual! [Instruction Manual]()
+If you are looking to get started right away here is the instruction manual! [Instruction Manual](https://docs.google.com/document/d/11tFU89lwRSyXelN36C8FMLKuBJrCtldJ0RzkJU0yMCk/edit?usp=sharing)
 
 ### Project Summary
 
